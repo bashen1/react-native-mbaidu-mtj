@@ -1,0 +1,27 @@
+
+{
+  "name": "react-native-mbaidu-mtj",
+  "version": "0.0.3",
+  "description": "react-native library for baidu mtj",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react-native",
+    "baichuan",
+    "react",
+    "react-component",
+    "ios",
+    "android"
+  ],
+  "author": "bashen1 <maochunjie@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bashen1/react-native-mbaidu-mtj/issues"
+  },
+  "homepage": "https://github.com/bashen1/react-native-mbaidu-mtj#readme",
+  "peerDependencies": {
+    "react-native": ">=0.40"
+  }
+}
